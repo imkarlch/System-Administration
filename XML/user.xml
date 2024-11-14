@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='xml/style.xsl'?>
+<users>
+<user><user_id>1</user_id><username>Karl</username><password>karl123</password><age>23</age><email>christiankarl7711@gmail.com</email><contact>09058284390</contact></user><user><user_id>2</user_id><username>mau</username><password>123</password><age>23</age><email>doctor@edoc.com</email><contact>09058284390</contact></user><user><user_id>20</user_id><username>admin</username><password>adad</password><age>23</age><email>doctor@edoc.com</email><contact>09058284390</contact></user><user><user_id>65</user_id><username>karl</username><password>daynos</password><age>44</age><email>christiankarl7711@gmail.com</email><contact>09058284390</contact></user><user><user_id>68</user_id><username>karl</username><password>karl</password><age>44</age><email>christiankarl7711@gmail.com</email><contact>09058284390</contact></user></users>
